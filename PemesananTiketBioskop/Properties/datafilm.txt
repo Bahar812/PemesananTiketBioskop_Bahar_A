@@ -1,0 +1,8 @@
+E:\Bahar Project C#\PemesananTiketBioskop\PemesananTiketBioskop\Properties\PosterFilm\jhon wick.jpg,JOHN WICK 2,11.00-12.00 PM
+E:\Bahar Project C#\PemesananTiketBioskop\PemesananTiketBioskop\Properties\PosterFilm\Django Unchained.jpg,Django Unchained,00.00-02.00 AM
+E:\Bahar Project C#\PemesananTiketBioskop\PemesananTiketBioskop\Properties\PosterFilm\THE WOLF OF WALL STREET.jpg,THE WOLF OF WALL STREET,01.00-23.00 AM
+E:\Bahar Project C#\PemesananTiketBioskop\PemesananTiketBioskop\Properties\PosterFilm\it-poster.jpg,IT,10.00-16.00 PM
+E:\Bahar Project C#\PemesananTiketBioskop\PemesananTiketBioskop\Properties\PosterFilm\one piece Z.jpg,One Piece Z,11.00-12.30 PM
+E:\Bahar Project C#\PemesananTiketBioskop\PemesananTiketBioskop\Properties\PosterFilm\Ready Player One.jpg,Ready Player One,14.00-15.50 PM
+E:\Bahar Project C#\PemesananTiketBioskop\PemesananTiketBioskop\Properties\PosterFilm\The Shawsank Redemption.jpg,The Shawsank Redemption,16.00-17.00 PM
+E:\Bahar Project C#\PemesananTiketBioskop\PemesananTiketBioskop\Properties\PosterFilm\US.jpg,US,19.00-21.40 PM
